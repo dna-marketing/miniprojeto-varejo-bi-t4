@@ -18,7 +18,7 @@ Aprendi que sem limpar a base os resultados saem errados. Essa base tinha coluna
 
 
 
-## Conclusões
+## Conclusoes
 1. A base tinha muitas linhas duplicadas (96.553), que teriam inflado o resultado das contagens. Depois da limpeza ficaram 733.447 itens.
 
 2. Optei por manter as categorias #N/D para não perder histórico de vendas e só renomeei como "Sem Categoria". Se apagasse, perderia 3.650 vendas. Assim os dados ficam e o problema continua visível.
